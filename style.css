@@ -20,3 +20,7 @@ input[type="text"]:focus {
 .filtered {
   display: none !important;
 }
+.edit {
+  cursor: pointer;
+  margin-right: 10px;
+}
